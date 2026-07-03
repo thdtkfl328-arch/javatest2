@@ -5,6 +5,7 @@ public class Testjava {
 	public static void main(String[] args) {
 		System.out.println("hi");
 		System.out.println("hi user2");
+		System.out.println("hi user1");
 	}
 
 }
